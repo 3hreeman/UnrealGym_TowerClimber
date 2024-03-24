@@ -2641,3 +2641,864 @@ UnknownFunction []
 UnknownFunction []
 UnknownFunction []
 
+[2024.03.24-12.27.18:035][133]LogHttp: Warning: 000005BCAC3CB900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87663CC4-4424-B187-35D9-99B618B7EAF1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=3070c19347b1d28596690fae395a2c8d%7C6e9e37b8055f4a9e9ec23e16be7104fc%7C61dc212b-6cdd-40fe-919e-46745d259393&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.24-12.27.18:035][133]LogHttp: Warning: 000005BCAC3CB900: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.24-12.27.18:035][133]LogHttp: Warning: 000005BCAC3CB900: libcurl info message cache 0 (Found bundle for host: 0x5bc4e9605a0 [serially])
+[2024.03.24-12.27.18:035][133]LogHttp: Warning: 000005BCAC3CB900: libcurl info message cache 1 (Re-using existing connection #5 with host datarouter.ol.epicgames.com)
+[2024.03.24-12.27.18:035][133]LogHttp: Warning: 000005BCAC3CB900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.199.23.229) port 443 (#5))
+[2024.03.24-12.27.18:035][133]LogHttp: Warning: 000005BCAC3CB900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.24-12.27.18:035][133]LogHttp: Warning: 000005BCAC3CB900: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.24-12.27.18:035][133]LogHttp: Warning: 000005BCAC3CB900: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.24-12.27.18:035][133]LogHttp: Warning: 000005BCAC3CB900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.24-12.27.18:035][133]LogHttp: Warning: 000005BCAC3CB900: libcurl info message cache 7 (Closing connection 5)
+[2024.03.24-12.27.18:035][133]LogHttp: Warning: 000005BCAC3CB900: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.24-12.27.18:035][133]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87663CC4-4424-B187-35D9-99B618B7EAF1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=3070c19347b1d28596690fae395a2c8d%7C6e9e37b8055f4a9e9ec23e16be7104fc%7C61dc212b-6cdd-40fe-919e-46745d259393&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.24-12.28.42:302][591]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+<lambda_af0a7978a3beea0ebc2d8ee7e0971e61>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.03.24-12.28.44:754][876]LogViewport: Scene viewport resized to 1864x1061, mode Windowed.
+[2024.03.24-12.28.44:775][878]LogViewport: Scene viewport resized to 1846x1061, mode Windowed.
+[2024.03.24-12.28.44:796][880]LogViewport: Scene viewport resized to 1804x1061, mode Windowed.
+[2024.03.24-12.28.44:829][882]LogViewport: Scene viewport resized to 1741x1061, mode Windowed.
+[2024.03.24-12.28.44:861][884]LogViewport: Scene viewport resized to 1698x1061, mode Windowed.
+[2024.03.24-12.28.45:163][918]LogViewport: Scene viewport resized to 1693x1061, mode Windowed.
+[2024.03.24-12.28.45:185][920]LogViewport: Scene viewport resized to 1688x1061, mode Windowed.
+[2024.03.24-12.28.45:207][922]LogViewport: Scene viewport resized to 1666x1061, mode Windowed.
+[2024.03.24-12.28.45:228][924]LogViewport: Scene viewport resized to 1635x1061, mode Windowed.
+[2024.03.24-12.28.45:259][926]LogViewport: Scene viewport resized to 1622x1061, mode Windowed.
+[2024.03.24-12.28.45:392][940]LogViewport: Scene viewport resized to 1626x1061, mode Windowed.
+[2024.03.24-12.28.45:413][942]LogViewport: Scene viewport resized to 1634x1061, mode Windowed.
+[2024.03.24-12.28.45:435][944]LogViewport: Scene viewport resized to 1648x1061, mode Windowed.
+[2024.03.24-12.28.45:456][946]LogViewport: Scene viewport resized to 1684x1061, mode Windowed.
+[2024.03.24-12.28.45:477][948]LogViewport: Scene viewport resized to 1714x1061, mode Windowed.
+[2024.03.24-12.28.45:498][950]LogViewport: Scene viewport resized to 1732x1061, mode Windowed.
+[2024.03.24-12.28.45:519][952]LogViewport: Scene viewport resized to 1743x1061, mode Windowed.
+[2024.03.24-12.28.45:540][954]LogViewport: Scene viewport resized to 1753x1061, mode Windowed.
+[2024.03.24-12.28.45:637][965]LogViewport: Scene viewport resized to 1751x1061, mode Windowed.
+[2024.03.24-12.28.45:659][967]LogViewport: Scene viewport resized to 1748x1061, mode Windowed.
+[2024.03.24-12.28.45:680][969]LogViewport: Scene viewport resized to 1744x1061, mode Windowed.
+[2024.03.24-12.28.45:701][971]LogViewport: Scene viewport resized to 1735x1061, mode Windowed.
+[2024.03.24-12.28.45:723][973]LogViewport: Scene viewport resized to 1724x1061, mode Windowed.
+[2024.03.24-12.29.12:695][732]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.24-12.31.30:074][371]BlueprintLog: New page: Compile BP_PlatformerChar
+[2024.03.24-12.31.30:112][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.03.24-12.31.30:874][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-12.31.30:917][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlatformerChar" FILE="D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/BP_PlatformerChar.uasset" SILENT=true
+[2024.03.24-12.31.30:921][454]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlatformerChar
+[2024.03.24-12.31.30:921][454]LogSavePackage: Moving 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Saved/BP_PlatformerChar00764AE1413B9526D6C41CA7BFA2FF24.tmp' to 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/BP_PlatformerChar.uasset'
+[2024.03.24-12.31.30:927][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 1.22 sec)
+[2024.03.24-12.31.30:930][454]AssetCheck: New page: Asset Save: BP_PlatformerChar
+[2024.03.24-12.31.30:930][454]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlatformerChar.BP_PlatformerChar
+[2024.03.24-12.31.38:850][906]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.24-12.31.44:395][139]LogViewport: Scene viewport resized to 1721x1089, mode Windowed.
+[2024.03.24-12.31.44:456][141]LogViewport: Scene viewport resized to 2362x1458, mode Windowed.
+[2024.03.24-12.31.44:856][188]LogSlate: Window 'BP_PlatformerChar' being destroyed
+[2024.03.24-12.31.44:864][188]LogViewport: Scene viewport resized to 2362x1522, mode Windowed.
+[2024.03.24-12.31.44:896][189]LogViewport: Scene viewport resized to 2362x1514, mode Windowed.
+[2024.03.24-12.31.44:909][190]LogViewport: Scene viewport resized to 2362x1501, mode Windowed.
+[2024.03.24-12.31.44:922][191]LogViewport: Scene viewport resized to 2362x1494, mode Windowed.
+[2024.03.24-12.31.44:935][192]LogViewport: Scene viewport resized to 2362x1489, mode Windowed.
+[2024.03.24-12.31.44:948][193]LogViewport: Scene viewport resized to 2362x1482, mode Windowed.
+[2024.03.24-12.31.44:962][194]LogViewport: Scene viewport resized to 2362x1476, mode Windowed.
+[2024.03.24-12.31.44:975][195]LogViewport: Scene viewport resized to 2362x1470, mode Windowed.
+[2024.03.24-12.31.44:988][196]LogViewport: Scene viewport resized to 2362x1464, mode Windowed.
+[2024.03.24-12.31.45:002][197]LogViewport: Scene viewport resized to 2362x1458, mode Windowed.
+[2024.03.24-12.32.05:266][642]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.24-12.32.05:277][642]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.24-12.32.05:292][644]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.24-12.32.08:406][ 18]LogContentBrowser: Attempting asset rename: NewFolder -> Actions
+[2024.03.24-12.32.08:406][ 18]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.24-12.32.18:057][749]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.03.24-12.32.18:061][749]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.03.24-12.32.18:078][751]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.03.24-12.32.23:391][389]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Move
+[2024.03.24-12.32.23:392][389]LogContentBrowser: End creating deferred item NewInputAction
+[2024.03.24-12.32.26:350][584]LogContentBrowser: Deferred new asset file creation: IA_Move1
+[2024.03.24-12.32.26:354][584]LogContentBrowser: Creating deferred item: IA_Move1
+[2024.03.24-12.32.26:363][585]LogContentBrowser: Renaming the item being created (Deferred Item: IA_Move1).
+[2024.03.24-12.32.32:118][276]LogContentBrowser: Attempting asset rename: IA_Move1 -> IA_Jump
+[2024.03.24-12.32.32:121][276]LogContentBrowser: End creating deferred item IA_Move1
+[2024.03.24-12.32.51:412][710]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/Actions/IA_Move.IA_Move
+[2024.03.24-12.33.20:703][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.03.24-12.33.20:704][986]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Debug' took 0.020
+[2024.03.24-12.33.20:704][986]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_King] ([2] browsable assets)...
+[2024.03.24-12.33.20:704][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_King]
+[2024.03.24-12.33.20:718][986]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_King_Auto2
+[2024.03.24-12.33.20:718][986]LogSavePackage: Moving 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Saved/BP_King_Auto2C8EEAB9F4177B68F29AA94B309BB2EFC.tmp' to 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Saved/Autosaves/Game/Blueprints/BP_King_Auto2.uasset'
+[2024.03.24-12.33.20:719][986]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Pig] ([2] browsable assets)...
+[2024.03.24-12.33.20:719][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Pig]
+[2024.03.24-12.33.20:721][986]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Pig_Auto2
+[2024.03.24-12.33.20:721][986]LogSavePackage: Moving 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Saved/BP_Pig_Auto2A67B4C9F458507DA698C729679DAA881.tmp' to 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Saved/Autosaves/Game/Blueprints/BP_Pig_Auto2.uasset'
+[2024.03.24-12.33.20:721][986]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Move] ([1] browsable assets)...
+[2024.03.24-12.33.20:721][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Move]
+[2024.03.24-12.33.20:722][986]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IA_Move_Auto2
+[2024.03.24-12.33.20:722][986]LogSavePackage: Moving 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Saved/IA_Move_Auto2611D801D42AFAEB9B193AB82E24738D4.tmp' to 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Saved/Autosaves/Game/Input/Actions/IA_Move_Auto2.uasset'
+[2024.03.24-12.33.20:722][986]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Jump] ([1] browsable assets)...
+[2024.03.24-12.33.20:722][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Jump]
+[2024.03.24-12.33.20:722][986]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IA_Jump_Auto2
+[2024.03.24-12.33.20:722][986]LogSavePackage: Moving 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Saved/IA_Jump_Auto283B7E1C3454EB6F6B2EFD09D80CF9476.tmp' to 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Saved/Autosaves/Game/Input/Actions/IA_Jump_Auto2.uasset'
+[2024.03.24-12.33.20:722][986]LogFileHelpers: Auto-saving content packages took 0.019
+[2024.03.24-12.34.24:055][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-12.34.24:116][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IA_Move" FILE="D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Input/Actions/IA_Move.uasset" SILENT=true
+[2024.03.24-12.34.24:117][102]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_Move
+[2024.03.24-12.34.24:117][102]LogSavePackage: Moving 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Saved/IA_MoveE338B515402687F374903580CD53CDA4.tmp' to 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Input/Actions/IA_Move.uasset'
+[2024.03.24-12.34.24:121][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 1.28 sec)
+[2024.03.24-12.34.24:124][102]AssetCheck: New page: Asset Save: IA_Move
+[2024.03.24-12.34.24:124][102]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/Actions/IA_Move.IA_Move
+[2024.03.24-12.34.35:326][902]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2024.03.24-12.34.35:331][902]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2024.03.24-12.34.35:339][903]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2024.03.24-12.34.38:658][ 28]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> NewInputMappingContext
+[2024.03.24-12.34.38:658][ 28]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2024.03.24-12.34.38:984][ 58]Cmd: PARTICLE RESET SELECTED
+[2024.03.24-12.34.38:984][ 58]LogEditorServer: Exec Particle!
+[2024.03.24-12.34.44:629][735]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> IMC_Platformer
+[2024.03.24-12.34.44:643][735]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-12.34.44:694][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Platformer" FILE="D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Input/IMC_Platformer.uasset" SILENT=true
+[2024.03.24-12.34.44:694][735]LogSavePackage: Moving output files for package: /Game/Input/IMC_Platformer
+[2024.03.24-12.34.44:695][735]LogSavePackage: Moving 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Saved/IMC_PlatformerE891ADCE49F210F26BDD96B21B7C17C7.tmp' to 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Input/IMC_Platformer.uasset'
+[2024.03.24-12.34.44:700][735]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 1.34 sec)
+[2024.03.24-12.34.44:720][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.03.24-12.34.44:732][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.03.24-12.34.44:745][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.03.24-12.34.44:747][735]AssetCheck: New page: Asset Save: IMC_Platformer
+[2024.03.24-12.34.44:747][735]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Input/IMC_Platformer.IMC_Platformer
+[2024.03.24-12.34.45:279][799]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Platformer.IMC_Platformer
+[2024.03.24-12.35.18:729][446]LogHttp: Warning: 000005BCB1C8DC00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87663CC4-4424-B187-35D9-99B618B7EAF1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=3070c19347b1d28596690fae395a2c8d%7C6e9e37b8055f4a9e9ec23e16be7104fc%7C61dc212b-6cdd-40fe-919e-46745d259393&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.24-12.35.18:729][446]LogHttp: Warning: 000005BCB1C8DC00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.24-12.35.18:729][446]LogHttp: Warning: 000005BCB1C8DC00: libcurl info message cache 0 (Found bundle for host: 0x5bc4e960090 [serially])
+[2024.03.24-12.35.18:729][446]LogHttp: Warning: 000005BCB1C8DC00: libcurl info message cache 1 (Re-using existing connection #8 with host datarouter.ol.epicgames.com)
+[2024.03.24-12.35.18:729][446]LogHttp: Warning: 000005BCB1C8DC00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.172.164.248) port 443 (#8))
+[2024.03.24-12.35.18:729][446]LogHttp: Warning: 000005BCB1C8DC00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.24-12.35.18:729][446]LogHttp: Warning: 000005BCB1C8DC00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.24-12.35.18:729][446]LogHttp: Warning: 000005BCB1C8DC00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.24-12.35.18:729][446]LogHttp: Warning: 000005BCB1C8DC00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.24-12.35.18:729][446]LogHttp: Warning: 000005BCB1C8DC00: libcurl info message cache 7 (Closing connection 8)
+[2024.03.24-12.35.18:729][446]LogHttp: Warning: 000005BCB1C8DC00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.24-12.35.18:729][446]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87663CC4-4424-B187-35D9-99B618B7EAF1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=3070c19347b1d28596690fae395a2c8d%7C6e9e37b8055f4a9e9ec23e16be7104fc%7C61dc212b-6cdd-40fe-919e-46745d259393&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.24-12.38.19:108][568]LogHttp: Warning: 000005BCB6832D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87663CC4-4424-B187-35D9-99B618B7EAF1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=3070c19347b1d28596690fae395a2c8d%7C6e9e37b8055f4a9e9ec23e16be7104fc%7C61dc212b-6cdd-40fe-919e-46745d259393&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.24-12.38.19:108][568]LogHttp: Warning: 000005BCB6832D00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.24-12.38.19:108][568]LogHttp: Warning: 000005BCB6832D00: libcurl info message cache 0 (Found bundle for host: 0x5bc4e960a80 [serially])
+[2024.03.24-12.38.19:108][568]LogHttp: Warning: 000005BCB6832D00: libcurl info message cache 1 (Re-using existing connection #9 with host datarouter.ol.epicgames.com)
+[2024.03.24-12.38.19:108][568]LogHttp: Warning: 000005BCB6832D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.22.177.119) port 443 (#9))
+[2024.03.24-12.38.19:108][568]LogHttp: Warning: 000005BCB6832D00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.24-12.38.19:108][568]LogHttp: Warning: 000005BCB6832D00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.24-12.38.19:108][568]LogHttp: Warning: 000005BCB6832D00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.24-12.38.19:108][568]LogHttp: Warning: 000005BCB6832D00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.24-12.38.19:108][568]LogHttp: Warning: 000005BCB6832D00: libcurl info message cache 7 (Closing connection 9)
+[2024.03.24-12.38.19:108][568]LogHttp: Warning: 000005BCB6832D00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.24-12.38.19:108][568]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87663CC4-4424-B187-35D9-99B618B7EAF1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=3070c19347b1d28596690fae395a2c8d%7C6e9e37b8055f4a9e9ec23e16be7104fc%7C61dc212b-6cdd-40fe-919e-46745d259393&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.24-12.40.49:087][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-12.40.49:136][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Platformer" FILE="D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Input/IMC_Platformer.uasset" SILENT=true
+[2024.03.24-12.40.49:137][822]LogSavePackage: Moving output files for package: /Game/Input/IMC_Platformer
+[2024.03.24-12.40.49:137][822]LogSavePackage: Moving 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Saved/IMC_PlatformerF2D9A6214917751FB7CE0D870AD27E84.tmp' to 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Input/IMC_Platformer.uasset'
+[2024.03.24-12.40.49:140][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 1.39 sec)
+[2024.03.24-12.40.49:148][822]AssetCheck: New page: Asset Save: IMC_Platformer
+[2024.03.24-12.40.49:148][822]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Input/IMC_Platformer.IMC_Platformer
+[2024.03.24-12.41.10:390][523]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_King.BP_King
+[2024.03.24-12.41.10:391][523]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.24-12.41.10:391][523]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.24-12.41.10:462][523]LogViewport: Scene viewport resized to 2362x1494, mode Windowed.
+[2024.03.24-12.41.10:483][523]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+<lambda_af0a7978a3beea0ebc2d8ee7e0971e61>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.03.24-12.41.10:504][524]LogViewport: Scene viewport resized to 2362x1473, mode Windowed.
+[2024.03.24-12.41.10:547][525]LogViewport: Scene viewport resized to 2362x1458, mode Windowed.
+[2024.03.24-12.41.15:172][680]LogSlate: Took 0.002958 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.03.24-12.41.19:294][ 57]LogHttp: Warning: 000005BCD31D4600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87663CC4-4424-B187-35D9-99B618B7EAF1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=3070c19347b1d28596690fae395a2c8d%7C6e9e37b8055f4a9e9ec23e16be7104fc%7C61dc212b-6cdd-40fe-919e-46745d259393&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.24-12.41.19:294][ 57]LogHttp: Warning: 000005BCD31D4600: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.24-12.41.19:294][ 57]LogHttp: Warning: 000005BCD31D4600: libcurl info message cache 0 (Found bundle for host: 0x5bc4e960db0 [serially])
+[2024.03.24-12.41.19:294][ 57]LogHttp: Warning: 000005BCD31D4600: libcurl info message cache 1 (Re-using existing connection #10 with host datarouter.ol.epicgames.com)
+[2024.03.24-12.41.19:294][ 57]LogHttp: Warning: 000005BCD31D4600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.84.229.176) port 443 (#10))
+[2024.03.24-12.41.19:294][ 57]LogHttp: Warning: 000005BCD31D4600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.24-12.41.19:294][ 57]LogHttp: Warning: 000005BCD31D4600: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.24-12.41.19:294][ 57]LogHttp: Warning: 000005BCD31D4600: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.24-12.41.19:294][ 57]LogHttp: Warning: 000005BCD31D4600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.24-12.41.19:294][ 57]LogHttp: Warning: 000005BCD31D4600: libcurl info message cache 7 (Closing connection 10)
+[2024.03.24-12.41.19:294][ 57]LogHttp: Warning: 000005BCD31D4600: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.24-12.41.19:294][ 57]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87663CC4-4424-B187-35D9-99B618B7EAF1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=3070c19347b1d28596690fae395a2c8d%7C6e9e37b8055f4a9e9ec23e16be7104fc%7C61dc212b-6cdd-40fe-919e-46745d259393&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.24-12.43.56:656][448]BlueprintLog: New page: Compile BP_King
+[2024.03.24-12.43.56:684][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.03.24-12.43.57:131][498]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-12.43.57:178][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_King" FILE="D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/BP_King.uasset" SILENT=true
+[2024.03.24-12.43.57:181][498]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_King
+[2024.03.24-12.43.57:181][498]LogSavePackage: Moving 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Saved/BP_KingC0EE021247813A8E1B0ABAB30563EFCC.tmp' to 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/BP_King.uasset'
+[2024.03.24-12.43.57:186][498]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 1.45 sec)
+[2024.03.24-12.43.57:189][498]AssetCheck: New page: Asset Save: BP_King
+[2024.03.24-12.43.57:189][498]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_King.BP_King
+[2024.03.24-12.44.19:560][516]LogHttp: Warning: 000005BCD6C92D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87663CC4-4424-B187-35D9-99B618B7EAF1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=3070c19347b1d28596690fae395a2c8d%7C6e9e37b8055f4a9e9ec23e16be7104fc%7C61dc212b-6cdd-40fe-919e-46745d259393&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.24-12.44.19:560][516]LogHttp: Warning: 000005BCD6C92D00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.24-12.44.19:560][516]LogHttp: Warning: 000005BCD6C92D00: libcurl info message cache 0 (Found bundle for host: 0x5bc4e960ed0 [serially])
+[2024.03.24-12.44.19:560][516]LogHttp: Warning: 000005BCD6C92D00: libcurl info message cache 1 (Re-using existing connection #11 with host datarouter.ol.epicgames.com)
+[2024.03.24-12.44.19:560][516]LogHttp: Warning: 000005BCD6C92D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.194.101.41) port 443 (#11))
+[2024.03.24-12.44.19:560][516]LogHttp: Warning: 000005BCD6C92D00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.24-12.44.19:560][516]LogHttp: Warning: 000005BCD6C92D00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.24-12.44.19:560][516]LogHttp: Warning: 000005BCD6C92D00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.24-12.44.19:560][516]LogHttp: Warning: 000005BCD6C92D00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.24-12.44.19:560][516]LogHttp: Warning: 000005BCD6C92D00: libcurl info message cache 7 (Closing connection 11)
+[2024.03.24-12.44.19:560][516]LogHttp: Warning: 000005BCD6C92D00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.24-12.44.19:560][516]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87663CC4-4424-B187-35D9-99B618B7EAF1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=3070c19347b1d28596690fae395a2c8d%7C6e9e37b8055f4a9e9ec23e16be7104fc%7C61dc212b-6cdd-40fe-919e-46745d259393&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.24-12.44.27:895][  6]BlueprintLog: New page: Compile BP_King
+[2024.03.24-12.44.27:920][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.03.24-12.44.28:564][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-12.44.28:610][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_King" FILE="D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/BP_King.uasset" SILENT=true
+[2024.03.24-12.44.28:612][ 81]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_King
+[2024.03.24-12.44.28:613][ 81]LogSavePackage: Moving 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Saved/BP_King4A41F5264DD950E6AC316680C96BE968.tmp' to 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/BP_King.uasset'
+[2024.03.24-12.44.28:616][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 1.50 sec)
+[2024.03.24-12.44.28:619][ 81]AssetCheck: New page: Asset Save: BP_King
+[2024.03.24-12.44.28:619][ 81]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_King.BP_King
+[2024.03.24-12.45.23:422][664]BlueprintLog: New page: Compile BP_King
+[2024.03.24-12.45.23:449][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.03.24-12.45.24:088][738]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-12.45.24:124][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_King" FILE="D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/BP_King.uasset" SILENT=true
+[2024.03.24-12.45.24:128][738]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_King
+[2024.03.24-12.45.24:128][738]LogSavePackage: Moving 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Saved/BP_KingA0D653D64CE6419DD208D49D423B723D.tmp' to 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/BP_King.uasset'
+[2024.03.24-12.45.24:132][738]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 1.54 sec)
+[2024.03.24-12.45.24:135][738]AssetCheck: New page: Asset Save: BP_King
+[2024.03.24-12.45.24:135][738]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_King.BP_King
+[2024.03.24-12.45.39:115][146]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.24-12.45.39:135][146]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.24-12.45.39:142][147]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.24-12.45.40:963][366]LogContentBrowser: Attempting asset rename: NewFolder -> Characters
+[2024.03.24-12.45.40:963][366]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.24-12.45.50:934][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_King.BP_King:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_King.PackageMetaData'
+[2024.03.24-12.45.50:934][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_King.SKEL_BP_King_C' ref from Metadata '/Game/Blueprints/BP_King.PackageMetaData'
+[2024.03.24-12.45.50:934][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_King.BP_King_C' ref from Metadata '/Game/Blueprints/BP_King.PackageMetaData'
+[2024.03.24-12.45.50:934][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_King.BP_King:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_King.PackageMetaData'
+[2024.03.24-12.45.50:934][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_King.BP_King:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_King.PackageMetaData'
+[2024.03.24-12.45.50:934][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_King.BP_King:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_King.PackageMetaData'
+[2024.03.24-12.45.50:934][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_King.BP_King_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_King.PackageMetaData'
+[2024.03.24-12.45.50:934][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_King.SKEL_BP_King_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_King.PackageMetaData'
+[2024.03.24-12.45.50:934][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_King.SKEL_BP_King_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_King.PackageMetaData'
+[2024.03.24-12.45.50:934][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_Pig.BP_Pig:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_Pig.PackageMetaData'
+[2024.03.24-12.45.50:934][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_Pig.SKEL_BP_Pig_C' ref from Metadata '/Game/Blueprints/BP_Pig.PackageMetaData'
+[2024.03.24-12.45.50:934][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_Pig.BP_Pig_C' ref from Metadata '/Game/Blueprints/BP_Pig.PackageMetaData'
+[2024.03.24-12.45.50:934][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_Pig.BP_Pig:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_Pig.PackageMetaData'
+[2024.03.24-12.45.50:934][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_Pig.BP_Pig:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_Pig.PackageMetaData'
+[2024.03.24-12.45.50:934][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_Pig.BP_Pig:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_Pig.PackageMetaData'
+[2024.03.24-12.45.50:934][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_Pig.SKEL_BP_Pig_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_Pig.PackageMetaData'
+[2024.03.24-12.45.50:934][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_Pig.SKEL_BP_Pig_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/BP_Pig.PackageMetaData'
+[2024.03.24-12.45.50:934][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_Pig.SKEL_BP_Pig_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BP_Pig.PackageMetaData'
+[2024.03.24-12.45.50:934][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_Pig.SKEL_BP_Pig_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_Pig.PackageMetaData'
+[2024.03.24-12.45.50:935][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_PlatformerChar.BP_PlatformerChar:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_PlatformerChar.PackageMetaData'
+[2024.03.24-12.45.50:935][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_PlatformerChar.SKEL_BP_PlatformerChar_C' ref from Metadata '/Game/Blueprints/BP_PlatformerChar.PackageMetaData'
+[2024.03.24-12.45.50:935][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_PlatformerChar.BP_PlatformerChar_C' ref from Metadata '/Game/Blueprints/BP_PlatformerChar.PackageMetaData'
+[2024.03.24-12.45.50:935][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_PlatformerChar.BP_PlatformerChar:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_PlatformerChar.PackageMetaData'
+[2024.03.24-12.45.50:935][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_PlatformerChar.BP_PlatformerChar:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_PlatformerChar.PackageMetaData'
+[2024.03.24-12.45.50:935][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_PlatformerChar.BP_PlatformerChar:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_PlatformerChar.PackageMetaData'
+[2024.03.24-12.45.50:935][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_PlatformerChar.SKEL_BP_PlatformerChar_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_PlatformerChar.PackageMetaData'
+[2024.03.24-12.45.50:935][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_PlatformerChar.SKEL_BP_PlatformerChar_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/BP_PlatformerChar.PackageMetaData'
+[2024.03.24-12.45.50:935][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_PlatformerChar.SKEL_BP_PlatformerChar_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BP_PlatformerChar.PackageMetaData'
+[2024.03.24-12.45.50:935][781]LogMetaData: Removing '/Game/Blueprints/Characters/BP_PlatformerChar.SKEL_BP_PlatformerChar_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_PlatformerChar.PackageMetaData'
+[2024.03.24-12.45.50:936][781]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-12.45.50:994][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/BP_King" FILE="D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/Characters/BP_King.uasset" SILENT=true
+[2024.03.24-12.45.50:997][781]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_King
+[2024.03.24-12.45.50:997][781]LogSavePackage: Moving 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Saved/BP_King2EE5CAC044BCC0F3D478FBB2CE50D51A.tmp' to 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/Characters/BP_King.uasset'
+[2024.03.24-12.45.51:001][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/BP_Pig" FILE="D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/Characters/BP_Pig.uasset" SILENT=true
+[2024.03.24-12.45.51:015][781]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_Pig
+[2024.03.24-12.45.51:015][781]LogSavePackage: Moving 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Saved/BP_Pig94C8D41E4F5ABD231390E186316A6C02.tmp' to 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/Characters/BP_Pig.uasset'
+[2024.03.24-12.45.51:020][781]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_PlatformerChar
+[2024.03.24-12.45.51:020][781]LogSavePackage: Moving 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Saved/BP_PlatformerChar10C2E16347764AD7F716BEB8EC6EC786.tmp' to 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/Characters/BP_PlatformerChar.uasset'
+[2024.03.24-12.45.51:026][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 1.64 sec)
+[2024.03.24-12.45.51:065][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.03.24-12.45.51:080][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.03.24-12.45.51:092][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.03.24-12.45.51:103][781]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.24-12.45.51:103][781]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Characters/BP_Pig.BP_Pig
+[2024.03.24-12.45.51:103][781]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Characters/BP_King.BP_King
+[2024.03.24-12.45.51:103][781]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Characters/BP_PlatformerChar.BP_PlatformerChar
+[2024.03.24-12.46.17:707][571]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.03.24-12.46.17:715][571]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.03.24-12.46.17:720][571]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.03.24-12.46.17:727][572]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.03.24-12.46.22:106][ 70]LogContentBrowser: Attempting asset rename: NewBlueprint -> GM_Platformer
+[2024.03.24-12.46.22:110][ 70]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.03.24-12.46.39:379][421]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GM_Platformer.GM_Platformer
+[2024.03.24-12.46.39:380][421]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.24-12.46.39:380][421]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.24-12.46.39:471][421]LogViewport: Scene viewport resized to 2362x1488, mode Windowed.
+[2024.03.24-12.46.39:509][422]LogViewport: Scene viewport resized to 2362x1466, mode Windowed.
+[2024.03.24-12.46.39:532][423]LogViewport: Scene viewport resized to 2362x1458, mode Windowed.
+[2024.03.24-12.47.08:534][ 42]BlueprintLog: New page: Compile GM_Platformer
+[2024.03.24-12.47.08:561][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.03.24-12.47.09:185][112]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-12.47.09:237][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Platformer" FILE="D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/GM_Platformer.uasset" SILENT=true
+[2024.03.24-12.47.09:239][112]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Platformer
+[2024.03.24-12.47.09:239][112]LogSavePackage: Moving 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Saved/GM_Platformer5C6FAD6E4D59D98C292745A5DF5A444E.tmp' to 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/GM_Platformer.uasset'
+[2024.03.24-12.47.09:245][112]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 1.70 sec)
+[2024.03.24-12.47.09:247][112]AssetCheck: New page: Asset Save: GM_Platformer
+[2024.03.24-12.47.09:247][112]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GM_Platformer.GM_Platformer
+[2024.03.24-12.47.19:582][513]LogHttp: Warning: 000005BCD80FFA00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87663CC4-4424-B187-35D9-99B618B7EAF1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=3070c19347b1d28596690fae395a2c8d%7C6e9e37b8055f4a9e9ec23e16be7104fc%7C61dc212b-6cdd-40fe-919e-46745d259393&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.24-12.47.19:582][513]LogHttp: Warning: 000005BCD80FFA00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.24-12.47.19:582][513]LogHttp: Warning: 000005BCD80FFA00: libcurl info message cache 0 (Found bundle for host: 0x5bc4e9601e0 [serially])
+[2024.03.24-12.47.19:582][513]LogHttp: Warning: 000005BCD80FFA00: libcurl info message cache 1 (Re-using existing connection #12 with host datarouter.ol.epicgames.com)
+[2024.03.24-12.47.19:582][513]LogHttp: Warning: 000005BCD80FFA00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.226.210.153) port 443 (#12))
+[2024.03.24-12.47.19:582][513]LogHttp: Warning: 000005BCD80FFA00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.24-12.47.19:582][513]LogHttp: Warning: 000005BCD80FFA00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.24-12.47.19:582][513]LogHttp: Warning: 000005BCD80FFA00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.24-12.47.19:583][513]LogHttp: Warning: 000005BCD80FFA00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.24-12.47.19:583][513]LogHttp: Warning: 000005BCD80FFA00: libcurl info message cache 7 (Closing connection 12)
+[2024.03.24-12.47.19:583][513]LogHttp: Warning: 000005BCD80FFA00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.24-12.47.19:583][513]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87663CC4-4424-B187-35D9-99B618B7EAF1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=3070c19347b1d28596690fae395a2c8d%7C6e9e37b8055f4a9e9ec23e16be7104fc%7C61dc212b-6cdd-40fe-919e-46745d259393&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.24-12.51.19:802][216]LogHttp: Warning: 000005BCD89E4100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87663CC4-4424-B187-35D9-99B618B7EAF1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=3070c19347b1d28596690fae395a2c8d%7C6e9e37b8055f4a9e9ec23e16be7104fc%7C61dc212b-6cdd-40fe-919e-46745d259393&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.24-12.51.19:802][216]LogHttp: Warning: 000005BCD89E4100: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.24-12.51.19:802][216]LogHttp: Warning: 000005BCD89E4100: libcurl info message cache 0 (Found bundle for host: 0x5bc4e960ea0 [serially])
+[2024.03.24-12.51.19:802][216]LogHttp: Warning: 000005BCD89E4100: libcurl info message cache 1 (Re-using existing connection #13 with host datarouter.ol.epicgames.com)
+[2024.03.24-12.51.19:802][216]LogHttp: Warning: 000005BCD89E4100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.224.219.55) port 443 (#13))
+[2024.03.24-12.51.19:802][216]LogHttp: Warning: 000005BCD89E4100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.24-12.51.19:802][216]LogHttp: Warning: 000005BCD89E4100: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.24-12.51.19:802][216]LogHttp: Warning: 000005BCD89E4100: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.24-12.51.19:802][216]LogHttp: Warning: 000005BCD89E4100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.24-12.51.19:802][216]LogHttp: Warning: 000005BCD89E4100: libcurl info message cache 7 (Closing connection 13)
+[2024.03.24-12.51.19:802][216]LogHttp: Warning: 000005BCD89E4100: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.24-12.51.19:802][216]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87663CC4-4424-B187-35D9-99B618B7EAF1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=3070c19347b1d28596690fae395a2c8d%7C6e9e37b8055f4a9e9ec23e16be7104fc%7C61dc212b-6cdd-40fe-919e-46745d259393&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.24-12.54.06:515][317]LogSlate: Window 'Project Settings' being destroyed
+[2024.03.24-12.54.06:520][317]LogSlate: Window 'Project Settings' being destroyed
+[2024.03.24-12.54.14:981][691]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.03.24-12.54.18:543][ 80]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.03.24-12.54.18:546][ 80]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.03.24-12.54.18:547][ 80]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/MAP_Debug.MAP_Debug:PersistentLevel.PlayerStart_0
+[2024.03.24-12.54.18:547][ 80]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.03.24-12.54.18:549][ 80]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/MAP_Debug.MAP_Debug:PersistentLevel.PlayerStart_0
+[2024.03.24-12.54.18:549][ 80]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.03.24-12.54.18:557][ 80]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.03.24-12.54.36:247][984]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.03.24-12.54.43:331][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-12.54.43:374][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Debug" FILE="D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Maps/MAP_Debug.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.24-12.54.43:393][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.03.24-12.54.43:400][629]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Debug
+[2024.03.24-12.54.43:400][629]LogSavePackage: Moving 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Saved/MAP_Debug8ACAC3494E10068ED22C9BBBC3EBBF08.tmp' to 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Maps/MAP_Debug.umap'
+[2024.03.24-12.54.43:405][629]LogFileHelpers: Saving map 'MAP_Debug' took 0.032
+[2024.03.24-12.54.43:410][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1.78 sec)
+[2024.03.24-12.54.43:413][629]AssetCheck: New page: Asset Save: MAP_Debug
+[2024.03.24-12.54.43:413][629]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Debug.MAP_Debug
+[2024.03.24-12.54.44:458][752]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.24-12.54.44:462][752]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.24-12.54.44:462][752]PIE: New page: PIE session: MAP_Debug (2024. 3. 25. 오전 6:54:44)
+[2024.03.24-12.54.44:495][752]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.03.24-12.54.44:496][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001141s)
+[2024.03.24-12.54.44:496][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001174s)
+[2024.03.24-12.54.44:496][752]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.24-12.54.44:496][752]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.24-12.54.44:496][752]LogAIModule: Creating AISystem for world MAP_Debug
+[2024.03.24-12.54.44:497][752]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2024.03.24-12.54.44:511][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.03.24-12.54.44:511][752]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.03.24-12.54.44:511][752]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.24-12.54.44:511][752]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.24-12.54.44:511][752]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.24-12.54.44:511][752]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.24-12.54.44:511][752]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.24-12.54.44:511][752]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.24-12.54.44:511][752]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.24-12.54.44:511][752]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.24-12.54.44:512][752]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.24-12.54.44:512][752]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.24-12.54.44:512][752]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.24-12.54.44:513][752]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.24-12.54.44:528][752]LogAudioMixer: Display: Using Audio Hardware Device Headphones(High Definition Audio Device)
+[2024.03.24-12.54.44:528][752]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.24-12.54.44:528][752]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.24-12.54.44:528][752]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.24-12.54.44:528][752]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.03.24-12.54.44:528][752]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.03.24-12.54.44:529][752]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.03.24-12.54.44:529][752]LogInit: FAudioDevice initialized with ID 4.
+[2024.03.24-12.54.44:529][752]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.03.24-12.54.44:529][752]LogAudio: Display: Audio Device (ID: 4) registered with world 'MAP_Debug'.
+[2024.03.24-12.54.44:529][752]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.03.24-12.54.44:532][752]LogLoad: Game class is 'GM_Platformer_C'
+[2024.03.24-12.54.44:533][752]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.03.24-21.54.44
+[2024.03.24-12.54.44:533][752]LogWorld: Bringing up level for play took: 0.000453
+[2024.03.24-12.54.44:534][752]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.03.24-12.54.44:535][752]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.24-12.54.44:535][752]PIE: Server logged in
+[2024.03.24-12.54.44:536][752]PIE: Play in editor total start time 0.074 seconds.
+[2024.03.24-12.54.47:665][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.24-12.54.47:665][114]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.03.24-12.54.47:665][114]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.03.24-12.54.47:665][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.24-12.54.47:667][114]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.24-12.54.47:669][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.24-12.54.47:682][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.24-12.54.47:682][114]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.03.24-12.54.47:682][114]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.03.24-12.54.47:683][114]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.03.24-12.54.47:687][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.03.24-12.54.47:730][116]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.03.24-12.54.51:287][259]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.24-12.54.51:291][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.24-12.54.51:291][259]PIE: New page: PIE session: MAP_Debug (2024. 3. 25. 오전 6:54:51)
+[2024.03.24-12.54.51:291][259]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.03.24-12.54.51:292][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001071s)
+[2024.03.24-12.54.51:292][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001092s)
+[2024.03.24-12.54.51:292][259]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.24-12.54.51:292][259]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.24-12.54.51:292][259]LogAIModule: Creating AISystem for world MAP_Debug
+[2024.03.24-12.54.51:292][259]LogPlayLevel: PIE: World Init took: (0.000543s)
+[2024.03.24-12.54.51:305][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.03.24-12.54.51:307][259]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.03.24-12.54.51:307][259]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.24-12.54.51:307][259]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.24-12.54.51:307][259]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.24-12.54.51:307][259]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.24-12.54.51:307][259]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.24-12.54.51:307][259]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.24-12.54.51:307][259]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.24-12.54.51:307][259]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.24-12.54.51:308][259]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.24-12.54.51:308][259]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.24-12.54.51:308][259]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.24-12.54.51:309][259]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.24-12.54.51:323][259]LogAudioMixer: Display: Using Audio Hardware Device Headphones(High Definition Audio Device)
+[2024.03.24-12.54.51:323][259]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.24-12.54.51:323][259]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.24-12.54.51:323][259]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.24-12.54.51:324][259]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.03.24-12.54.51:324][259]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.03.24-12.54.51:325][259]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.03.24-12.54.51:325][259]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.03.24-12.54.51:325][259]LogInit: FAudioDevice initialized with ID 5.
+[2024.03.24-12.54.51:325][259]LogAudio: Display: Audio Device (ID: 5) registered with world 'MAP_Debug'.
+[2024.03.24-12.54.51:325][259]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.03.24-12.54.51:327][259]LogLoad: Game class is 'GM_Platformer_C'
+[2024.03.24-12.54.51:328][259]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.03.24-21.54.51
+[2024.03.24-12.54.51:328][259]LogWorld: Bringing up level for play took: 0.000438
+[2024.03.24-12.54.51:329][259]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.03.24-12.54.51:330][259]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.24-12.54.51:330][259]PIE: Server logged in
+[2024.03.24-12.54.51:330][259]PIE: Play in editor total start time 0.04 seconds.
+[2024.03.24-12.54.57:979][ 49]Set new viewmode: Unlit
+[2024.03.24-12.54.58:979][169]Set new viewmode: Unlit
+[2024.03.24-12.55.09:239][737]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-12.55.09:397][756]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-12.55.09:548][774]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-12.55.09:889][815]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-12.55.10:040][833]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-12.55.10:206][853]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-12.55.10:572][897]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-12.55.10:764][920]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-12.55.10:848][930]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-12.55.11:064][956]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-12.55.11:331][988]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-12.55.11:498][  8]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-12.55.11:848][ 50]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-12.55.12:048][ 74]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-12.55.12:181][ 90]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-12.55.12:347][110]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-12.55.12:423][119]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-12.55.12:656][147]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-12.55.12:715][154]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-12.55.34:725][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.24-12.55.34:725][705]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.03.24-12.55.34:726][705]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.03.24-12.55.34:726][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.24-12.55.34:729][705]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.24-12.55.34:731][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.24-12.55.34:747][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.24-12.55.34:747][705]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.03.24-12.55.34:747][705]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.03.24-12.55.34:749][705]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.03.24-12.55.34:753][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.03.24-12.55.34:800][708]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.03.24-12.55.55:394][232]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+<lambda_af0a7978a3beea0ebc2d8ee7e0971e61>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.03.24-12.56.20:116][292]LogHttp: Warning: 000005BCC6314100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87663CC4-4424-B187-35D9-99B618B7EAF1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=3070c19347b1d28596690fae395a2c8d%7C6e9e37b8055f4a9e9ec23e16be7104fc%7C61dc212b-6cdd-40fe-919e-46745d259393&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.24-12.56.20:117][292]LogHttp: Warning: 000005BCC6314100: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.24-12.56.20:117][292]LogHttp: Warning: 000005BCC6314100: libcurl info message cache 0 (Found bundle for host: 0x5bc4e960480 [serially])
+[2024.03.24-12.56.20:117][292]LogHttp: Warning: 000005BCC6314100: libcurl info message cache 1 (Re-using existing connection #15 with host datarouter.ol.epicgames.com)
+[2024.03.24-12.56.20:117][292]LogHttp: Warning: 000005BCC6314100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.203.21.186) port 443 (#15))
+[2024.03.24-12.56.20:117][292]LogHttp: Warning: 000005BCC6314100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.24-12.56.20:117][292]LogHttp: Warning: 000005BCC6314100: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.24-12.56.20:117][292]LogHttp: Warning: 000005BCC6314100: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.24-12.56.20:117][292]LogHttp: Warning: 000005BCC6314100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.24-12.56.20:117][292]LogHttp: Warning: 000005BCC6314100: libcurl info message cache 7 (Closing connection 15)
+[2024.03.24-12.56.20:117][292]LogHttp: Warning: 000005BCC6314100: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.24-12.56.20:117][292]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87663CC4-4424-B187-35D9-99B618B7EAF1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=3070c19347b1d28596690fae395a2c8d%7C6e9e37b8055f4a9e9ec23e16be7104fc%7C61dc212b-6cdd-40fe-919e-46745d259393&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.24-12.56.33:473][641]LogEditorTransaction: Undo Modify Component(s)
+[2024.03.24-12.56.35:049][771]LogEditorTransaction: Undo Modify Component(s)
+[2024.03.24-12.56.36:532][945]LogEditorTransaction: Undo Modify Component(s)
+[2024.03.24-12.56.38:375][162]LogEditorTransaction: Undo Modify Component Location
+[2024.03.24-12.57.16:739][348]BlueprintLog: New page: Compile BP_King
+[2024.03.24-12.57.16:783][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.03.24-12.57.17:416][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-12.57.17:469][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/BP_King" FILE="D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/Characters/BP_King.uasset" SILENT=true
+[2024.03.24-12.57.17:473][417]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_King
+[2024.03.24-12.57.17:473][417]LogSavePackage: Moving 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Saved/BP_King151029AA4A90C16150C59D86996196ED.tmp' to 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/Characters/BP_King.uasset'
+[2024.03.24-12.57.17:477][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 1.84 sec)
+[2024.03.24-12.57.17:481][417]AssetCheck: New page: Asset Save: BP_King
+[2024.03.24-12.57.17:481][417]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Characters/BP_King.BP_King
+[2024.03.24-12.57.19:032][599]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.24-12.57.19:035][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.24-12.57.19:035][599]PIE: New page: PIE session: MAP_Debug (2024. 3. 25. 오전 6:57:19)
+[2024.03.24-12.57.19:075][599]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.03.24-12.57.19:076][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001188s)
+[2024.03.24-12.57.19:076][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001221s)
+[2024.03.24-12.57.19:076][599]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.24-12.57.19:076][599]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.24-12.57.19:076][599]LogAIModule: Creating AISystem for world MAP_Debug
+[2024.03.24-12.57.19:076][599]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2024.03.24-12.57.19:090][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.03.24-12.57.19:092][599]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.03.24-12.57.19:092][599]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.24-12.57.19:092][599]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.24-12.57.19:092][599]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.24-12.57.19:092][599]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.24-12.57.19:092][599]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.24-12.57.19:092][599]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.24-12.57.19:092][599]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.24-12.57.19:092][599]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.24-12.57.19:093][599]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.24-12.57.19:093][599]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.24-12.57.19:093][599]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.24-12.57.19:095][599]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.24-12.57.19:109][599]LogAudioMixer: Display: Using Audio Hardware Device Headphones(High Definition Audio Device)
+[2024.03.24-12.57.19:109][599]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.24-12.57.19:109][599]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.24-12.57.19:109][599]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.24-12.57.19:110][599]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.03.24-12.57.19:110][599]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.03.24-12.57.19:111][599]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.03.24-12.57.19:111][599]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.03.24-12.57.19:111][599]LogInit: FAudioDevice initialized with ID 6.
+[2024.03.24-12.57.19:111][599]LogAudio: Display: Audio Device (ID: 6) registered with world 'MAP_Debug'.
+[2024.03.24-12.57.19:111][599]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.03.24-12.57.19:113][599]LogLoad: Game class is 'GM_Platformer_C'
+[2024.03.24-12.57.19:114][599]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.03.24-21.57.19
+[2024.03.24-12.57.19:114][599]LogWorld: Bringing up level for play took: 0.000417
+[2024.03.24-12.57.19:115][599]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.03.24-12.57.19:116][599]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.24-12.57.19:116][599]PIE: Server logged in
+[2024.03.24-12.57.19:116][599]PIE: Play in editor total start time 0.081 seconds.
+[2024.03.24-12.57.19:499][638]LogBlueprintUserMessages: [BP_King_C_0] Move
+[2024.03.24-12.57.20:382][744]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-12.57.20:698][782]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-12.57.20:898][806]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-12.57.21:073][827]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-12.57.21:223][845]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-12.57.21:365][862]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-12.57.21:557][885]LogBlueprintUserMessages: [BP_King_C_0] Move
+[2024.03.24-12.57.21:865][922]LogBlueprintUserMessages: [BP_King_C_0] Move
+[2024.03.24-12.57.22:190][961]LogBlueprintUserMessages: [BP_King_C_0] Move
+[2024.03.24-12.57.22:657][ 17]LogBlueprintUserMessages: [BP_King_C_0] Move
+[2024.03.24-12.57.23:032][ 62]LogBlueprintUserMessages: [BP_King_C_0] Move
+[2024.03.24-12.57.23:390][105]LogBlueprintUserMessages: [BP_King_C_0] Move
+[2024.03.24-12.57.23:591][129]LogBlueprintUserMessages: [BP_King_C_0] Move
+[2024.03.24-12.57.23:807][155]LogBlueprintUserMessages: [BP_King_C_0] Move
+[2024.03.24-12.57.23:966][174]LogBlueprintUserMessages: [BP_King_C_0] Move
+[2024.03.24-12.57.24:048][184]LogBlueprintUserMessages: [BP_King_C_0] Move
+[2024.03.24-12.57.24:290][213]LogBlueprintUserMessages: [BP_King_C_0] Move
+[2024.03.24-12.57.24:423][229]LogBlueprintUserMessages: [BP_King_C_0] Move
+[2024.03.24-12.57.24:507][239]LogBlueprintUserMessages: [BP_King_C_0] Move
+[2024.03.24-12.57.24:582][248]LogBlueprintUserMessages: [BP_King_C_0] Move
+[2024.03.24-12.57.24:649][256]LogBlueprintUserMessages: [BP_King_C_0] Move
+[2024.03.24-12.57.24:990][297]LogBlueprintUserMessages: [BP_King_C_0] Move
+[2024.03.24-12.57.25:141][315]LogBlueprintUserMessages: [BP_King_C_0] Move
+[2024.03.24-12.57.25:595][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.24-12.57.25:595][365]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.03.24-12.57.25:595][365]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.03.24-12.57.25:595][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.24-12.57.25:600][365]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.24-12.57.25:602][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.24-12.57.25:619][365]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.24-12.57.25:619][365]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.03.24-12.57.25:619][365]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.03.24-12.57.25:621][365]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.03.24-12.57.25:623][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.24-12.57.25:624][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.03.24-12.57.25:683][367]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.03.24-12.57.25:935][396]Cmd: SELECT NONE
+[2024.03.24-12.57.26:110][416]Cmd: SELECT NONE
+[2024.03.24-12.59.37:219][493]LogSlate: Window 'Project Settings' being destroyed
+[2024.03.24-12.59.37:223][493]LogSlate: Window 'Project Settings' being destroyed
+[2024.03.24-12.59.51:286][932]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.03.24-12.59.58:061][650]LogSlate: Window 'Project Settings' being destroyed
+[2024.03.24-12.59.58:064][650]LogSlate: Window 'Project Settings' being destroyed
+[2024.03.24-12.59.59:884][862]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.24-12.59.59:888][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.24-12.59.59:888][862]PIE: New page: PIE session: MAP_Debug (2024. 3. 25. 오전 6:59:59)
+[2024.03.24-12.59.59:925][862]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.03.24-12.59.59:926][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001308s)
+[2024.03.24-12.59.59:926][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001344s)
+[2024.03.24-12.59.59:926][862]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.24-12.59.59:926][862]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.24-12.59.59:926][862]LogAIModule: Creating AISystem for world MAP_Debug
+[2024.03.24-12.59.59:927][862]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2024.03.24-12.59.59:944][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.03.24-12.59.59:946][862]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.03.24-12.59.59:946][862]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.24-12.59.59:946][862]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.24-12.59.59:946][862]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.24-12.59.59:946][862]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.24-12.59.59:946][862]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.24-12.59.59:946][862]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.24-12.59.59:946][862]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.24-12.59.59:946][862]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.24-12.59.59:947][862]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.24-12.59.59:947][862]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.24-12.59.59:947][862]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.24-12.59.59:948][862]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.24-12.59.59:963][862]LogAudioMixer: Display: Using Audio Hardware Device Headphones(High Definition Audio Device)
+[2024.03.24-12.59.59:963][862]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.24-12.59.59:963][862]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.24-12.59.59:963][862]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.24-12.59.59:964][862]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.03.24-12.59.59:964][862]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.03.24-12.59.59:965][862]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.03.24-12.59.59:965][862]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.03.24-12.59.59:965][862]LogInit: FAudioDevice initialized with ID 7.
+[2024.03.24-12.59.59:965][862]LogAudio: Display: Audio Device (ID: 7) registered with world 'MAP_Debug'.
+[2024.03.24-12.59.59:965][862]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.03.24-12.59.59:967][862]LogLoad: Game class is 'GM_Platformer_C'
+[2024.03.24-12.59.59:967][862]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.03.24-21.59.59
+[2024.03.24-12.59.59:967][862]LogWorld: Bringing up level for play took: 0.000395
+[2024.03.24-12.59.59:969][862]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.03.24-12.59.59:969][862]PIE: Server logged in
+[2024.03.24-12.59.59:970][862]PIE: Play in editor total start time 0.082 seconds.
+[2024.03.24-13.00.01:335][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.24-13.00.01:335][  7]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.03.24-13.00.01:335][  7]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.03.24-13.00.01:335][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.24-13.00.01:337][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.24-13.00.01:339][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.24-13.00.01:352][  7]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.24-13.00.01:352][  7]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.03.24-13.00.01:352][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.03.24-13.00.01:354][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.03.24-13.00.01:356][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.24-13.00.01:358][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.03.24-13.00.01:402][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.03.24-13.00.14:218][438]LogSlate: Window 'Project Settings' being destroyed
+[2024.03.24-13.00.14:223][438]LogSlate: Window 'Project Settings' being destroyed
+[2024.03.24-13.00.15:800][622]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.24-13.00.15:804][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.24-13.00.15:804][622]PIE: New page: PIE session: MAP_Debug (2024. 3. 25. 오전 7:00:15)
+[2024.03.24-13.00.15:804][622]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.03.24-13.00.15:805][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001095s)
+[2024.03.24-13.00.15:805][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001115s)
+[2024.03.24-13.00.15:805][622]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.24-13.00.15:805][622]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.24-13.00.15:806][622]LogAIModule: Creating AISystem for world MAP_Debug
+[2024.03.24-13.00.15:806][622]LogPlayLevel: PIE: World Init took: (0.000518s)
+[2024.03.24-13.00.15:818][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.03.24-13.00.15:820][622]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.03.24-13.00.15:820][622]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.24-13.00.15:820][622]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.24-13.00.15:820][622]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.24-13.00.15:820][622]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.24-13.00.15:820][622]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.24-13.00.15:820][622]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.24-13.00.15:820][622]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.24-13.00.15:820][622]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.24-13.00.15:820][622]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.24-13.00.15:820][622]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.24-13.00.15:820][622]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.24-13.00.15:822][622]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.24-13.00.15:836][622]LogAudioMixer: Display: Using Audio Hardware Device Headphones(High Definition Audio Device)
+[2024.03.24-13.00.15:837][622]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.24-13.00.15:837][622]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.24-13.00.15:837][622]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.24-13.00.15:837][622]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.03.24-13.00.15:837][622]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.03.24-13.00.15:838][622]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.03.24-13.00.15:838][622]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.03.24-13.00.15:838][622]LogInit: FAudioDevice initialized with ID 8.
+[2024.03.24-13.00.15:838][622]LogAudio: Display: Audio Device (ID: 8) registered with world 'MAP_Debug'.
+[2024.03.24-13.00.15:838][622]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.03.24-13.00.15:841][622]LogLoad: Game class is 'GM_Platformer_C'
+[2024.03.24-13.00.15:841][622]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.03.24-22.00.15
+[2024.03.24-13.00.15:841][622]LogWorld: Bringing up level for play took: 0.000423
+[2024.03.24-13.00.15:843][622]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.03.24-13.00.15:843][622]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.24-13.00.15:844][622]PIE: Server logged in
+[2024.03.24-13.00.15:844][622]PIE: Play in editor total start time 0.041 seconds.
+[2024.03.24-13.00.16:475][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.24-13.00.16:475][685]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.03.24-13.00.16:475][685]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.03.24-13.00.16:475][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.24-13.00.16:478][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.24-13.00.16:480][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.24-13.00.16:496][685]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.24-13.00.16:497][685]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.03.24-13.00.16:497][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.03.24-13.00.16:498][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.03.24-13.00.16:501][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.24-13.00.16:502][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.03.24-13.00.16:541][689]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.03.24-13.02.01:620][719]LogViewport: Scene viewport resized to 2354x1458, mode Windowed.
+[2024.03.24-13.02.01:700][721]LogViewport: Scene viewport resized to 2235x1458, mode Windowed.
+[2024.03.24-13.02.01:729][723]LogViewport: Scene viewport resized to 2202x1458, mode Windowed.
+[2024.03.24-13.02.01:748][725]LogViewport: Scene viewport resized to 2193x1458, mode Windowed.
+[2024.03.24-13.02.01:801][731]LogViewport: Scene viewport resized to 2191x1458, mode Windowed.
+[2024.03.24-13.02.45:515][311]BlueprintLog: New page: Compile BP_King
+[2024.03.24-13.02.45:543][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.03.24-13.02.46:250][380]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-13.02.46:308][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/BP_King" FILE="D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/Characters/BP_King.uasset" SILENT=true
+[2024.03.24-13.02.46:312][380]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_King
+[2024.03.24-13.02.46:312][380]LogSavePackage: Moving 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Saved/BP_King37D5F0054AEFAF3656F76DAC27D32EA8.tmp' to 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/Characters/BP_King.uasset'
+[2024.03.24-13.02.46:316][380]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 1.90 sec)
+[2024.03.24-13.02.46:319][380]AssetCheck: New page: Asset Save: BP_King
+[2024.03.24-13.02.46:319][380]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Characters/BP_King.BP_King
+[2024.03.24-13.02.47:786][554]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.24-13.02.47:789][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.24-13.02.47:789][554]PIE: New page: PIE session: MAP_Debug (2024. 3. 25. 오전 7:02:47)
+[2024.03.24-13.02.47:790][554]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.03.24-13.02.47:792][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001138s)
+[2024.03.24-13.02.47:792][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001163s)
+[2024.03.24-13.02.47:792][554]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.24-13.02.47:792][554]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.24-13.02.47:792][554]LogAIModule: Creating AISystem for world MAP_Debug
+[2024.03.24-13.02.47:792][554]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2024.03.24-13.02.47:805][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.03.24-13.02.47:808][554]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.03.24-13.02.47:808][554]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.24-13.02.47:808][554]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.24-13.02.47:808][554]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.24-13.02.47:808][554]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.24-13.02.47:808][554]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.24-13.02.47:808][554]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.24-13.02.47:808][554]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.24-13.02.47:808][554]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.24-13.02.47:809][554]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.24-13.02.47:809][554]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.24-13.02.47:809][554]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.24-13.02.47:810][554]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.24-13.02.47:823][554]LogAudioMixer: Display: Using Audio Hardware Device Headphones(High Definition Audio Device)
+[2024.03.24-13.02.47:823][554]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.24-13.02.47:823][554]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.24-13.02.47:823][554]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.24-13.02.47:825][554]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.03.24-13.02.47:825][554]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.03.24-13.02.47:826][554]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.03.24-13.02.47:826][554]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.03.24-13.02.47:826][554]LogInit: FAudioDevice initialized with ID 9.
+[2024.03.24-13.02.47:826][554]LogAudio: Display: Audio Device (ID: 9) registered with world 'MAP_Debug'.
+[2024.03.24-13.02.47:826][554]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.03.24-13.02.47:828][554]LogLoad: Game class is 'GM_Platformer_C'
+[2024.03.24-13.02.47:829][554]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.03.24-22.02.47
+[2024.03.24-13.02.47:829][554]LogWorld: Bringing up level for play took: 0.000406
+[2024.03.24-13.02.47:831][554]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.03.24-13.02.47:831][554]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.24-13.02.47:832][554]PIE: Server logged in
+[2024.03.24-13.02.47:832][554]PIE: Play in editor total start time 0.042 seconds.
+[2024.03.24-13.02.59:846][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.24-13.02.59:846][ 11]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.03.24-13.02.59:846][ 11]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.03.24-13.02.59:846][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.24-13.02.59:849][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.24-13.02.59:851][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.24-13.02.59:867][ 11]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.24-13.02.59:867][ 11]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.03.24-13.02.59:867][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.03.24-13.02.59:869][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.03.24-13.02.59:871][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.24-13.02.59:872][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.03.24-13.02.59:917][ 16]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.03.24-13.03.00:078][ 35]Cmd: SELECT NONE
+[2024.03.24-13.03.04:878][591]BlueprintLog: New page: Compile GM_Platformer
+[2024.03.24-13.03.04:902][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.03.24-13.03.05:386][646]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-13.03.05:441][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Platformer" FILE="D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/GM_Platformer.uasset" SILENT=true
+[2024.03.24-13.03.05:443][646]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Platformer
+[2024.03.24-13.03.05:443][646]LogSavePackage: Moving 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Saved/GM_Platformer375500744F2F8A88F4D29184260EA73F.tmp' to 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/GM_Platformer.uasset'
+[2024.03.24-13.03.05:447][646]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 1.96 sec)
+[2024.03.24-13.03.05:450][646]AssetCheck: New page: Asset Save: GM_Platformer
+[2024.03.24-13.03.05:450][646]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GM_Platformer.GM_Platformer
+[2024.03.24-13.03.12:661][505]BlueprintLog: New page: Compile BP_King
+[2024.03.24-13.03.12:688][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.03.24-13.03.13:167][546]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-13.03.13:223][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/BP_King" FILE="D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/Characters/BP_King.uasset" SILENT=true
+[2024.03.24-13.03.13:227][546]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_King
+[2024.03.24-13.03.13:228][546]LogSavePackage: Moving 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Saved/BP_King866275664388D9DCBFBD8D8D797F1940.tmp' to 'D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/Characters/BP_King.uasset'
+[2024.03.24-13.03.13:232][546]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 2.03 sec)
+[2024.03.24-13.03.13:235][546]AssetCheck: New page: Asset Save: BP_King
+[2024.03.24-13.03.13:235][546]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Characters/BP_King.BP_King
+[2024.03.24-13.03.14:635][712]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.24-13.03.14:639][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.24-13.03.14:639][712]PIE: New page: PIE session: MAP_Debug (2024. 3. 25. 오전 7:03:14)
+[2024.03.24-13.03.14:675][712]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.03.24-13.03.14:676][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001168s)
+[2024.03.24-13.03.14:676][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001197s)
+[2024.03.24-13.03.14:676][712]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.24-13.03.14:676][712]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.24-13.03.14:676][712]LogAIModule: Creating AISystem for world MAP_Debug
+[2024.03.24-13.03.14:677][712]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2024.03.24-13.03.14:690][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.03.24-13.03.14:693][712]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.03.24-13.03.14:693][712]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.24-13.03.14:693][712]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.24-13.03.14:693][712]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.24-13.03.14:693][712]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.24-13.03.14:693][712]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.24-13.03.14:693][712]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.24-13.03.14:693][712]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.24-13.03.14:693][712]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.24-13.03.14:693][712]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.24-13.03.14:693][712]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.24-13.03.14:693][712]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.24-13.03.14:694][712]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.24-13.03.14:709][712]LogAudioMixer: Display: Using Audio Hardware Device Headphones(High Definition Audio Device)
+[2024.03.24-13.03.14:709][712]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.24-13.03.14:709][712]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.24-13.03.14:709][712]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.24-13.03.14:710][712]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.03.24-13.03.14:710][712]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.03.24-13.03.14:711][712]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.03.24-13.03.14:711][712]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.03.24-13.03.14:711][712]LogInit: FAudioDevice initialized with ID 10.
+[2024.03.24-13.03.14:711][712]LogAudio: Display: Audio Device (ID: 10) registered with world 'MAP_Debug'.
+[2024.03.24-13.03.14:711][712]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.03.24-13.03.14:713][712]LogLoad: Game class is 'GM_Platformer_C'
+[2024.03.24-13.03.14:713][712]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.03.24-22.03.14
+[2024.03.24-13.03.14:713][712]LogWorld: Bringing up level for play took: 0.000403
+[2024.03.24-13.03.14:715][712]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.03.24-13.03.14:715][712]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.24-13.03.14:715][712]PIE: Server logged in
+[2024.03.24-13.03.14:716][712]PIE: Play in editor total start time 0.077 seconds.
+[2024.03.24-13.03.15:760][830]LogBlueprintUserMessages: [BP_King_C_0] Move
+[2024.03.24-13.03.16:760][950]LogBlueprintUserMessages: [BP_King_C_0] Jump
+[2024.03.24-13.03.17:096][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.24-13.03.17:096][986]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.03.24-13.03.17:096][986]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.03.24-13.03.17:096][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.24-13.03.17:099][986]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.24-13.03.17:101][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.24-13.03.17:118][986]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.24-13.03.17:118][986]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.03.24-13.03.17:118][986]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.03.24-13.03.17:119][986]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.03.24-13.03.17:122][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.24-13.03.17:123][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.03.24-13.03.17:170][989]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.03.24-13.03.17:337][  9]Cmd: SELECT NONE

@@ -112,7 +112,15 @@
 				"D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/PaperAssets/Spring/Textures/Spring.uasset",
 				"D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/PaperAssets/Spring/Frames/Spring__Idle_PNG.uasset",
 				"D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/PaperAssets/TileSets/Terrain.uasset",
-				"D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/PaperAssets/TileSets/Decorations.uasset"
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/PaperAssets/TileSets/Decorations.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/BP_PlatformerChar.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Input/Actions/IA_Move.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Input/IMC_Platformer.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/BP_King.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/Characters/BP_King.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/Characters/BP_Pig.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/Characters/BP_PlatformerChar.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_TowerClimber/TowerClimber/Content/Blueprints/GM_Platformer.uasset"
 			]
 		}
 	]
